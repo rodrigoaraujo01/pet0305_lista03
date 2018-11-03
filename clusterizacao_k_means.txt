@@ -1,0 +1,17 @@
+# 4 clusters
+
+['Reino Unido', 'Austrália', 'Canadá', 'Estados Unidos', 'Japão', 'França', 'Cingapura', 'Uruguai']
+['Argentina', 'Cuba', 'Brasil', 'Egito', 'Moçambique', 'China']
+['Colômbia', 'Paraguai', 'Senegal', 'Etiópia']
+['Nigéria', 'Serra Leoa', 'Angola']
+
+# 3 clusters
+
+['Reino Unido', 'Austrália', 'Canadá', 'Estados Unidos', 'Japão', 'França', 'Cingapura', 'Uruguai']
+['Argentina', 'Cuba', 'Brasil', 'Egito', 'Moçambique', 'China']
+['Colômbia', 'Paraguai', 'Nigéria', 'Senegal', 'Serra Leoa', 'Angola', 'Etiópia']
+
+# 2 clusters
+
+['Reino Unido', 'Austrália', 'Canadá', 'Estados Unidos', 'Japão', 'França', 'Cingapura', 'Argentina', 'Uruguai', 'Cuba', 'Brasil', 'Egito', 'Moçambique', 'China']
+['Colômbia', 'Paraguai', 'Nigéria', 'Senegal', 'Serra Leoa', 'Angola', 'Etiópia']
